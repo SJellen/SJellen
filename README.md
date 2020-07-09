@@ -1,4 +1,12 @@
-### Hi there👋 I'm Scott Jellen <h1 align="center">### Hi there👋 I'm Scott Jellen</h1>
+<h1 align="center">Hi there👋 I'm Scott Jellen</h1>
+
+
+
+<p align="center">
+  <a href="https://https://scottjellen.me/">Website</a> •
+  <a href="https://twitter.com/ScottJellen">Twitter</a> •
+  <a href="https://www.linkedin.com/in/victordelafouchardiere">Linkedin</a>
+</p>
 
 <!--
 **SJellen/SJellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
