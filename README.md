@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://scottjellen.me/">Website</a> •
   <a href="https://twitter.com/ScottJellen">Twitter</a> •
-  <a href="https://www.linkedin.com/in/victordelafouchardiere">Linkedin</a>
+  <a href="https://dev.to/sjellen">Dev</a>
 </p>
 
 <!--
