@@ -8,6 +8,12 @@
   <a href="https://dev.to/sjellen">Dev</a>
 </p>
 
+## My skills
+
+<p align="center">
+  <img align="center" alt="Toolbox" src="" />
+</p>
+
 <!--
 **SJellen/SJellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
