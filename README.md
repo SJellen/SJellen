@@ -1,4 +1,4 @@
-### Hi there I'm Scott Jellen 👋
+### Hi there👋 I'm Scott Jellen <h1 align="center">### Hi there👋 I'm Scott Jellen</h1>
 
 <!--
 **SJellen/SJellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
