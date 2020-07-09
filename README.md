@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://https://scottjellen.me/">Website</a> •
+  <a href="https://scottjellen.me/">Website</a> •
   <a href="https://twitter.com/ScottJellen">Twitter</a> •
   <a href="https://www.linkedin.com/in/victordelafouchardiere">Linkedin</a>
 </p>
