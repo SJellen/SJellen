@@ -14,6 +14,9 @@
   <img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/master/images/toolbox2.jpg" />
 </p>
 
+
+![Profile views](https://gpvc.arturio.dev/SJellen)  
+
 <!--
 **SJellen/SJellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
