@@ -14,6 +14,8 @@
   <img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/master/images/toolbox2.jpg" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJellen)](https://github.com/SJellen/github-readme-stats)
+
 
 ![Profile views](https://gpvc.arturio.dev/SJellen)  
 
