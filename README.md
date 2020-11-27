@@ -14,7 +14,7 @@
 ## My skills
 
 <p align="center">
-  <img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/master/images/toolbox2.jpg" /> <p align="center">
+  <img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/master/images/toolbox2.jpg" /> <p align="center"> </p>
 
 
 <div align="center">
