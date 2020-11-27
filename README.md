@@ -16,6 +16,9 @@
 </p>
 
 
+![SJellen's github stats](https://github-readme-stats.vercel.app/api?username=SJellen&count_private=true)
+
+
 
 
 ![Profile views](https://gpvc.arturio.dev/SJellen)  
