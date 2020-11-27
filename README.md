@@ -9,10 +9,12 @@
   <a href="https://dev.to/sjellen">Dev</a>
 </p>
 
+
+<div align="center">
 ## My skills
 
 
- <div align="center"> <img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/master/images/toolbox2.jpg" />
+  <img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/master/images/toolbox2.jpg" />
 
 
 
