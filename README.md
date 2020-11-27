@@ -11,12 +11,12 @@
 
 ## My skills
 
-<p align="center">
+
   <img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/master/images/toolbox2.jpg" />
-</p>
 
 
-<span align="center">![SJellen's github stats](https://github-readme-stats.vercel.app/api?username=SJellen&count_private=true&theme=tokyonight)</span>
+
+![SJellen's github stats](https://github-readme-stats.vercel.app/api?username=SJellen&count_private=true&theme=tokyonight)
 
 
 
