@@ -16,8 +16,8 @@
 </p>
 
 
-<p align="center">![SJellen's github stats](https://github-readme-stats.vercel.app/api?username=SJellen&count_private=true&theme=tokyonight)
-  </p>
+<span align="center">![SJellen's github stats](https://github-readme-stats.vercel.app/api?username=SJellen&count_private=true&theme=tokyonight)</span>
+
 
 
 
