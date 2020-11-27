@@ -16,7 +16,7 @@
 </p>
 
 
-![SJellen's github stats](https://github-readme-stats.vercel.app/api?username=SJellen&count_private=true)
+![SJellen's github stats](https://github-readme-stats.vercel.app/api?username=SJellen&count_private=true&theme=radical)
 
 
 
