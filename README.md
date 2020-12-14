@@ -27,13 +27,13 @@
 - <a href="https://modest-albattani-0df9f4.netlify.app/">Harvard Art Museum Explorer </a>(educational) React | Hooks | JS | API
 - <a href="https://youthful-yonath-b6a4b7.netlify.app/">NASA Navigator</a>(educational) React | JS | Css | API
 
-
+</p>
 ## My skills
 
 
 <p align="left">
   <img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/master/images/toolbox2.jpg" />  
-</p>
+
 
 
 
