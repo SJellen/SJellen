@@ -2,7 +2,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://scottjellen.com/">Website</a> •
   <a href="https://twitter.com/ScottJellen">Twitter</a> •
   <a href="https://www.linkedin.com/in/scott-jellen-3251901b3/">LinkedIn</a> •
@@ -11,12 +11,12 @@
 
 
 - 🔭 I’m currently working on ... A IMDB/Netflix clone
-- 🌱 I’m currently learning ... Either Gatsby or Next.js
+- 🌱 I’m currently learning ... Gatsby and Next.js
 - 👯 I’m looking to collaborate on ... Networking
 - 🤔 I’m looking for help with ... Getting a job
 - 💬 Ask me about ... how I can help your company
 
--->
+
 
 
 
