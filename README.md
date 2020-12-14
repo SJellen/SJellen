@@ -10,6 +10,10 @@
 </p>
 
 
+
+
+
+
 - 🔭 I’m currently working on ... A IMDB/Netflix clone
 - 🌱 I’m currently learning ... Gatsby and Next.js
 - 👯 I’m looking to collaborate on ... Networking
@@ -17,7 +21,11 @@
 - 💬 Ask me about ... how I can help your company
 
 
-
+## Project Demo's 🎬
+- <a href="https://rm-doa.vercel.app/"> Rick and Morty Dead or Alive </a>(entertainment) React | Hooks | JS | Css | Context | API
+- <a href="https://my-media.vercel.app/">My Media</a> (entertainment) React | JS | CSS | Material
+- <a href="https://modest-albattani-0df9f4.netlify.app/">Harvard Art Museum Explorer </a>(educational) React | Hooks | JS | API
+- <a href="https://youthful-yonath-b6a4b7.netlify.app/">NASA Navigator</a>(educational) React | JS | Css | API
 
 
 ## My skills
