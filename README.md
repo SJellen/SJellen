@@ -2,7 +2,7 @@
 
 
 
-<p align="left">
+<p align="center">
   <a href="https://scottjellen.com/">Website</a> •
   <a href="https://twitter.com/ScottJellen">Twitter</a> •
   <a href="https://www.linkedin.com/in/scott-jellen-3251901b3/">LinkedIn</a> •
@@ -23,7 +23,7 @@
 ## My skills
 
 
-<p align="center">
+<p align="left">
   <img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/master/images/toolbox2.jpg" />  
 </p>
 
