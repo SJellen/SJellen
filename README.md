@@ -20,7 +20,7 @@
 
 
 
-  ![SJellen's github stats](https://github-readme-stats.vercel.app/api?username=SJellen&count_private=true&theme=tokyonight) 
+ <div align="center">![SJellen's github stats](https://github-readme-stats.vercel.app/api?username=SJellen&count_private=true&theme=tokyonight) <div>
 
 
 
