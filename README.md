@@ -10,6 +10,15 @@
 </p>
 
 
+- 🔭 I’m currently working on ... A IMDB/Netflix clone
+- 🌱 I’m currently learning ... Either Gatsby or Next.js
+- 👯 I’m looking to collaborate on ... Networking
+- 🤔 I’m looking for help with ... Getting a job
+- 💬 Ask me about ... how I can help your company
+
+-->
+
+
 
 ## My skills
 
@@ -20,9 +29,9 @@
 
 
 
-<p align="center">
+
   ![SJellen's github stats](https://github-readme-stats.vercel.app/api?username=SJellen&count_private=true&theme=tokyonight) 
-</p>
+
 
 
 
