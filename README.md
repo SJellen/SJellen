@@ -7,7 +7,7 @@
   <a href="https://twitter.com/ScottJellen">Twitter</a> •
   <a href="https://www.linkedin.com/in/scott-jellen-3251901b3/">LinkedIn</a> •
   <a href="https://dev.to/sjellen">Dev</a>
-</p>
+
 
 
 
@@ -47,7 +47,7 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/SJellen)  
-
+</p>
 <!--
 **SJellen/SJellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
