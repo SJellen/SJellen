@@ -15,13 +15,14 @@
 
 
 - 🔭 I’m currently working on ... A IMDB/Netflix clone
-- 🌱 I’m currently learning ... MongoDB & Express
+- 🌱 I’m currently learning ... MongoDB, Express, Gatsby
 - 👯 I’m looking to collaborate on ... Networking
 - 🤔 I’m looking for help with ... Getting a job
 - 💬 Ask me about ... how I can help your company
 
 
 ## Project Demo's 🎬
+- <a href="https://affectionate-tesla-9555b9.netlify.app/"> Screening</a>(entertainment) React | Hooks | JS | Css | Context | API | Express | MongoDB
 - <a href="https://rm-doa.vercel.app/"> Rick and Morty Dead or Alive </a>(entertainment) React | Hooks | JS | Css | Context | API
 - <a href="https://my-media.vercel.app/">My Media</a> (entertainment) React | JS | CSS | Material
 - <a href="https://modest-albattani-0df9f4.netlify.app/">Harvard Art Museum Explorer </a>(educational) React | Hooks | JS | API
