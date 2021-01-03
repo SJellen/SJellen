@@ -15,7 +15,7 @@
 
 
 - 🔭 I’m currently working on ... A IMDB/Netflix clone
-- 🌱 I’m currently learning ... MongoDB, Express, Gatsby
+- 🌱 I’m currently learning ... MongoDB, Express, Nextjs
 - 👯 I’m looking to collaborate on ... Networking
 - 🤔 I’m looking for help with ... Getting a job
 - 💬 Ask me about ... how I can help your company
