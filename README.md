@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on ... version 9 of my portfolio using Next.js, Sass, Framer-Motion
+- 🔭 I’m currently working on ... taking a deep dive on MongoDB.
 - 🌱 I’m currently learning ... MongoDB, Express, Nextjs
 - 👯 I’m looking to collaborate on ... Networking
 - 🤔 I’m looking for help with ... Getting a job
