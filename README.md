@@ -15,10 +15,10 @@
 
 
 - 🔭 I’m currently working on ... taking a deep dive on MongoDB.
-- 🌱 I’m currently learning ... MongoDB, Express, Nextjs
-- 👯 I’m looking to collaborate on ... Networking
-- 🤔 I’m looking for help with ... Getting a job
-- 💬 Ask me about ... how I can help your company
+- 🌱 I’m currently learning ... MongoDB, Express, Nextjs.
+- 👯 I’m looking to collaborate on ... Networking.
+- 🤔 I’m looking for help with ... Getting a job.
+- 💬 Ask me about ... how I can help your company.
 
 
 ## Project Demo's 🎬
