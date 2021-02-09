@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on ... taking a deep dive on MongoDB.
+- 🔭 I’m currently working on ... taking a deep dive on MongoDB M220js.
 - 🌱 I’m currently learning ... MongoDB, Express, Nextjs.
 - 👯 I’m looking to collaborate on ... Networking.
 - 🤔 I’m looking for help with ... Getting a job.
