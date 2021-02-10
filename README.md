@@ -62,4 +62,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+
+need  better way of showing my skills other than the old font awesome icons 
 -->
