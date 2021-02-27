@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://scottjellen.com/">Website</a> •
   <a href="https://twitter.com/ScottJellen">Twitter</a> •
-  <a href="https://www.linkedin.com/in/scott-jellen-3251901b3/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/scottjellen/">LinkedIn</a> •
   <a href="https://dev.to/sjellen">Dev</a>
 </p>
 
@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on ... taking a deep dive on MongoDB M220js.
+- 🔭 I’m currently working on ... a trivia game using Next.js.
 - 🌱 I’m currently learning ... MongoDB, Express, Nextjs.
 - 👯 I’m looking to collaborate on ... Networking.
 - 🤔 I’m looking for help with ... Getting a job.
