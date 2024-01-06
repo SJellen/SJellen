@@ -2,6 +2,7 @@
 <!-- <img align="center" alt="Toolbox" src="/images/ScottJellen.png" />   -->
 
 <h1 align="center">👋 Hello! I'm Scott Jellen</h1>
+<h2 align="center">Software Engineer | Frontend Devoloper</h1>
 
 <p align="center">
   <a href="https://scottjellen.com/">Website</a> •
@@ -68,26 +69,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjellen&layout=compact&theme=tokyonight)](https://github.com/sjellen/github-readme-stats)
 
 
-
----
-
-### :zap: Recent Activity 
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SJellen/continuous-delivery-azure-test/pull/1) in [SJellen/continuous-delivery-azure-test](https://github.com/SJellen/continuous-delivery-azure-test)
-2. 🎉 Merged PR [#35](https://github.com/SJellen/my-media/pull/35) in [SJellen/my-media](https://github.com/SJellen/my-media)
-3. 🎉 Merged PR [#33](https://github.com/SJellen/my-media/pull/33) in [SJellen/my-media](https://github.com/SJellen/my-media)
-4. 🎉 Merged PR [#32](https://github.com/SJellen/my-media/pull/32) in [SJellen/my-media](https://github.com/SJellen/my-media)
-5. 🎉 Merged PR [#31](https://github.com/SJellen/my-media/pull/31) in [SJellen/my-media](https://github.com/SJellen/my-media)
-6. 🎉 Merged PR [#29](https://github.com/SJellen/my-media/pull/29) in [SJellen/my-media](https://github.com/SJellen/my-media)
-7. 🎉 Merged PR [#28](https://github.com/SJellen/my-media/pull/28) in [SJellen/my-media](https://github.com/SJellen/my-media)
-8. 🎉 Merged PR [#19](https://github.com/SJellen/my-media/pull/19) in [SJellen/my-media](https://github.com/SJellen/my-media)
-9. 🎉 Merged PR [#18](https://github.com/SJellen/my-media/pull/18) in [SJellen/my-media](https://github.com/SJellen/my-media)
-10. 🎉 Merged PR [#8](https://github.com/SJellen/projectlistreact/pull/8) in [SJellen/projectlistreact](https://github.com/SJellen/projectlistreact)
-<!--END_SECTION:activity-->
-
-
----
 
 
 <!-- ![Profile views](https://gpvc.arturio.dev/SJellen)   -->
