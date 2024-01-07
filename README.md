@@ -1,4 +1,4 @@
-<!-- <img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/master/images/dotDot.jpg" />   -->
+<img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/main/images/lkBanner.png" />  
 <!-- <img align="center" alt="Toolbox" src="/images/ScottJellen.png" />   -->
 
 <h1 align="center">👋 Hello! I'm Scott Jellen</h1>
