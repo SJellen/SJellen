@@ -1,8 +1,8 @@
 <img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/main/images/lkBannerAlt.png" />  
 <!-- <img align="center" alt="Toolbox" src="/images/ScottJellen.png" />   -->
 
-<!-- <h1 align="center">👋 Hello! I'm Scott Jellen</h1>
-<h2 align="center">Software Engineer | Frontend Devoloper</h1> -->
+<h1 align="center">👋 Hello! I'm Scott Jellen</h1>
+<h2 align="center">Software Engineer | Frontend Devoloper</h1>
 
 <p align="center">
   <a href="https://scottjellen.com/">Website</a> •
