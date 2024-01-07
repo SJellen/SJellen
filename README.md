@@ -1,8 +1,8 @@
-<img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/main/images/lkBanner.png" />  
+<img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/main/images/lkBannerAlt.png" />  
 <!-- <img align="center" alt="Toolbox" src="/images/ScottJellen.png" />   -->
 
-<h1 align="center">👋 Hello! I'm Scott Jellen</h1>
-<h2 align="center">Software Engineer | Frontend Devoloper</h1>
+<!-- <h1 align="center">👋 Hello! I'm Scott Jellen</h1>
+<h2 align="center">Software Engineer | Frontend Devoloper</h1> -->
 
 <p align="center">
   <a href="https://scottjellen.com/">Website</a> •
@@ -11,7 +11,7 @@
   <a href="https://dev.to/sjellen">Dev</a>
 </p>
 
-- 🔭 I’m currently working on a stock market news site.
+- 🔭 I’m currently working on getting better everyday.
 - 🌱 I’m currently learning ... HTMX.
 - 👯 I’m looking to collaborate on ... Networking.
 - 🤔 I’m looking for help with ... growing as a developer.
