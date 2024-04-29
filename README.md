@@ -22,8 +22,7 @@
 - <a href="https://generalknowledge.vercel.app/">General Knowledge</a>  (entertainment) React | Hooks | JS | Css | Context | API | Next.js
 - <a href="https://my-media.vercel.app/">My Media</a> (entertainment) React | JS | CSS | Material
 - <a href="https://rm-doa.vercel.app/"> Rick and Morty Dead or Alive </a> (entertainment) React | Hooks | JS | Css | Context | API
-- <a href="https://planets-fact-site-five.vercel.app/">The Planets</a> (education) React | Hooks | JS | Css | Context | Next.js
-- <a href="https://nasa-pic-board.vercel.app/">NASA Navigator</a> (educational) React | JS | Css | API
+- <a href="https://planets-fact-site-five.vercel.app/">The Planets</a> (education) React | Hooks | JS | Css | Context | Next.js <!-- - <a href="https://nasa-pic-board.vercel.app/">NASA Navigator</a> (educational) React | JS | Css | API -->
 - <a href="https://harvard-gallery.vercel.app/">Harvard Art Museum Explorer </a>  (educational) React | Hooks | JS | API
 
 ## My Tools
