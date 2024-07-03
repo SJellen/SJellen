@@ -18,9 +18,9 @@
 
 ## Project Demo's 🎬
 
+- <a href="https://media-consumption.vercel.app/">My Consumption</a> (entertainment) Vite | Typescript | Tailwind
 - <a href="https://affectionate-tesla-9555b9.netlify.app/"> Screening</a> (entertainment) React | Hooks | JS | Css | Context | API | Express | MongoDB
 - <a href="https://generalknowledge.vercel.app/">General Knowledge</a>  (entertainment) React | Hooks | JS | Css | Context | API | Next.js
-- <a href="https://my-media.vercel.app/">My Media</a> (entertainment) React | JS | CSS | Material
 - <a href="https://rm-doa.vercel.app/"> Rick and Morty Dead or Alive </a> (entertainment) React | Hooks | JS | Css | Context | API
 - <a href="https://planets-fact-site-five.vercel.app/">The Planets</a> (education) React | Hooks | JS | Css | Context | Next.js <!-- - <a href="https://nasa-pic-board.vercel.app/">NASA Navigator</a> (educational) React | JS | Css | API -->
 - <a href="https://harvard-gallery.vercel.app/">Harvard Art Museum Explorer </a>  (educational) React | Hooks | JS | API
@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,js,html,css,py,sass,materialui,bootstrap,styledcomponents,nodejs,express,jest,vercel,netlify,git,github,githubactions,sentry,mongodb,figma,aws,azure,docker,anaconda,d3,vscode,markdown&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vite,ts,js,html,css,tailwind,py,sass,materialui,bootstrap,styledcomponents,nodejs,express,jest,vercel,netlify,git,github,githubactions,sentry,mongodb,figma,aws,azure,docker,vscode,markdown&perline=10" />
   </a>
   <p align="left">
     <img alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" /> 
