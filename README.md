@@ -18,7 +18,7 @@
 
 ## Project Demo's 🎬
 
-- <a href="https://media-consumption.vercel.app/">My Consumption</a> (entertainment) Vite | Typescript | Tailwind
+- <a href="https://media-consumption.vercel.app/">Media Consumption</a> (entertainment) Vite | Typescript | Tailwind
 - <a href="https://affectionate-tesla-9555b9.netlify.app/"> Screening</a> (entertainment) React | Hooks | JS | Css | Context | API | Express | MongoDB
 - <a href="https://generalknowledge.vercel.app/">General Knowledge</a>  (entertainment) React | Hooks | JS | Css | Context | API | Next.js
 - <a href="https://rm-doa.vercel.app/"> Rick and Morty Dead or Alive </a> (entertainment) React | Hooks | JS | Css | Context | API
