@@ -1,12 +1,8 @@
-<img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/main/images/lkBannerAlt.png" />  
-
 <h1 align="center">👋 Hello! I'm Scott Jellen</h1>
 <h2 align="center">Frontend Developer | Software Engineer</h1>
 
 <p align="center">
-  <a href="https://scottjellen.com/">Website</a> •
-  <a href="https://www.linkedin.com/in/scottjellen/">LinkedIn</a> •
-  <a href="https://dev.to/sjellen">Dev</a>
+  <a href="https://scottjellen.com/">Website</a>
 </p>
 
 - 🔭 I’m currently working on getting better everyday.
@@ -15,18 +11,16 @@
 - 🤔 I’m looking for help with ... growing as a developer.
 - 💬 Ask me about ... movies, games.
 
-
 ## Project Demo's 🎬
 
 - <a href="https://media-consumption.vercel.app/">Media Consumption</a> (entertainment) Vite | Typescript | Tailwind
 - <a href="https://affectionate-tesla-9555b9.netlify.app/"> Screening</a> (entertainment) React | Hooks | JS | Css | Context | API | Express | MongoDB
-- <a href="https://generalknowledge.vercel.app/">General Knowledge</a>  (entertainment) React | Hooks | JS | Css | Context | API | Next.js
+- <a href="https://generalknowledge.vercel.app/">General Knowledge</a> (entertainment) React | Hooks | JS | Css | Context | API | Next.js
 - <a href="https://rm-doa.vercel.app/"> Rick and Morty Dead or Alive </a> (entertainment) React | Hooks | JS | Css | Context | API
 - <a href="https://planets-fact-site-five.vercel.app/">The Planets</a> (education) React | Hooks | JS | Css | Context | Next.js <!-- - <a href="https://nasa-pic-board.vercel.app/">NASA Navigator</a> (educational) React | JS | Css | API -->
-- <a href="https://harvard-gallery.vercel.app/">Harvard Art Museum Explorer </a>  (educational) React | Hooks | JS | API
+- <a href="https://harvard-gallery.vercel.app/">Harvard Art Museum Explorer </a> (educational) React | Hooks | JS | API
 
 ## My Tools
-
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -41,10 +35,7 @@
 </p> 
 </p>
 
-  
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SJellen&theme=blueberry&background=1A1C27)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SJellen&theme=blueberry&background=1A1C27)](https://git.io/streak-stats)
 
 <!-- ![Profile views](https://gpvc.arturio.dev/SJellen)   -->
 
