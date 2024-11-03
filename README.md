@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hello! I'm Scott Jellen</h1>
-<h2 align="center">Frontend Developer | Software Engineer</h1>
+<h1 align="center" style="padding-bottom: 20px">👋 Hello! I'm Scott Jellen</h1>
+
+<h2 align="center" style="padding-bottom: 20px">Frontend Developer | Software Engineer</h1>
 
 <p align="center">
   <a href="https://scottjellen.com/">Website</a>
@@ -9,7 +10,6 @@
 - 🌱 I’m currently learning ... Tailwind.
 - 👯 I’m looking to collaborate on ... Networking.
 - 🤔 I’m looking for help with ... growing as a developer.
-- 💬 Ask me about ... movies, games.
 
 ## Project Demo's 🎬
 
@@ -22,7 +22,7 @@
 
 ## My Tools
 
-<p align="left">
+<p align="left" >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vite,ts,js,html,css,tailwind,py,sass,materialui,bootstrap,styledcomponents,nodejs,express,jest,vercel,netlify,git,github,githubactions,sentry,mongodb,figma,aws,azure,docker,vscode,markdown&perline=10" />
   </a>
