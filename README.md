@@ -1,15 +1,7 @@
-<h1 align="center" style="padding-bottom: 20px">👋 Hello! I'm Scott Jellen</h1>
+<h1 align="left" style="padding-bottom: 20px">👋 Thanks for visiting</h1>
 
-<h2 align="center" style="padding-bottom: 20px">Frontend Developer | Software Engineer</h1>
+- <a href="https://scottjellen.com/">Portfolio</a>
 
-<p align="center">
-  <a href="https://scottjellen.com/">Website</a>
-</p>
-
-- 🔭 I’m currently working on getting better everyday.
-- 🌱 I’m currently learning ... Tailwind.
-- 👯 I’m looking to collaborate on ... Networking.
-- 🤔 I’m looking for help with ... growing as a developer.
 
 ## Project Demo's 🎬
 
@@ -55,3 +47,9 @@ Here are some ideas to get you started:
 
 
 -->
+
+<!-- 
+- 🔭 I’m currently working on getting better everyday.
+- 🌱 I’m currently learning ... Tailwind.
+- 👯 I’m looking to collaborate on ... Networking.
+- 🤔 I’m looking for help with ... growing as a developer. -->
