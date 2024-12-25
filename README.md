@@ -1,8 +1,5 @@
 <h1 align="left" style="padding-bottom: 20px">👋 Thanks for visiting</h1>
 
-- <a href="https://scottjellen.com/">Portfolio</a>
-
-
 ## Project Demo's 🎬
 
 - <a href="https://media-consumption.vercel.app/">Media Consumption</a> (entertainment) Vite | Typescript | Tailwind
