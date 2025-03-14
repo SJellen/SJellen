@@ -1,6 +1,8 @@
+<img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/main/images/lkBannerAlt.png" />  
+
 <h1 align="left" style="padding-bottom: 20px">👋 Thanks for visiting</h1>
 <p align="left">
-  <a href="https://scottjellen.com/">Website</a>
+  <a href="https://scottjellen.com/">Portfolio</a>
 </p>
 
 ## Project Demo's 🎬
