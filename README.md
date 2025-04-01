@@ -104,7 +104,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&width=800&height=100" alt="Readme Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&width=800&height=200" alt="Readme Quotes" />
 </div>
 
 <div align="center">
