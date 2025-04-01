@@ -12,7 +12,8 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Front+End+Developer;Software Developer;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Front+End+Developer;Software+Developer;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" />
+
 </div>
 
 ## 🚀 Featured Projects
@@ -94,7 +95,8 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SJellen&theme=algolia&background=1A1C27&hide_border=true&width=800" alt="GitHub Streak" />
+
+  <img src="https://streak-stats.demolab.com?user=SJellen&theme=algolia&background=1A1C27&hide_border=true&width=800" alt="GitHub Streak" />
   
   <img src="https://github-profile-trophy.vercel.app/?username=SJellen&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
 </div>
