@@ -1,57 +1,115 @@
-<img align="center" alt="Toolbox" src="https://github.com/SJellen/SJellen/blob/main/images/lkBannerAlt.png" />  
+<div align="center">
+  <img src="https://github.com/SJellen/SJellen/blob/main/images/lkBannerAlt.png" alt="Banner" width="100%"/>
+  
+  <h1>👋 Hey there, I'm Scott!</h1>
+  
+  <p>
+    <a href="https://scottjellen.com/">
+      <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/scottjellen/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
-<h1 align="left" style="padding-bottom: 20px">👋 Thanks for visiting</h1>
-<p align="left">
-  <a href="https://scottjellen.com/">Portfolio</a>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" />
+</div>
 
-## Project Demo's 🎬
+## 🚀 Featured Projects
 
-- <a href="https://media-consumption.vercel.app/">Media Consumption</a> (entertainment) Vite | Typescript | Tailwind
-- <a href="https://affectionate-tesla-9555b9.netlify.app/"> Screening</a> (entertainment) React | Hooks | JS | Css | Context | API | Express | MongoDB
-- <a href="https://generalknowledge.vercel.app/">General Knowledge</a> (entertainment) React | Hooks | JS | Css | Context | API | Next.js
-- <a href="https://rm-doa.vercel.app/"> Rick and Morty Dead or Alive </a> (entertainment) React | Hooks | JS | Css | Context | API
-- <a href="https://planets-fact-site-five.vercel.app/">The Planets</a> (education) React | Hooks | JS | Css | Context | Next.js <!-- - <a href="https://nasa-pic-board.vercel.app/">NASA Navigator</a> (educational) React | JS | Css | API -->
-- <a href="https://harvard-gallery.vercel.app/">Harvard Art Museum Explorer </a> (educational) React | Hooks | JS | API
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://media-consumption.vercel.app/">
+          <img src="https://img.shields.io/badge/Fetch_Rewards-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Fetch Rewards" />
+        </a>
+      </td>
+      <td>
+        <a href="https://isses-svim-fe.vercel.app/">
+          <img src="https://img.shields.io/badge/Notes-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Notes" />
+        </a>
+      </td>
+      <td>
+        <a href="https://media-consumption.vercel.app/">
+          <img src="https://img.shields.io/badge/Media_Consumption-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Media Consumption" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://affectionate-tesla-9555b9.netlify.app/">
+          <img src="https://img.shields.io/badge/Screening-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Screening" />
+        </a>
+      </td>
+      <td>
+        <a href="https://generalknowledge.vercel.app/">
+          <img src="https://img.shields.io/badge/General_Knowledge-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="General Knowledge" />
+        </a>
+      </td>
+      <td>
+        <a href="https://rm-doa.vercel.app/">
+          <img src="https://img.shields.io/badge/Rick_and_Morty-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Rick and Morty" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://planets-fact-site-five.vercel.app/">
+          <img src="https://img.shields.io/badge/The_Planets-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="The Planets" />
+        </a>
+      </td>
+      <td>
+        <a href="https://harvard-gallery.vercel.app/">
+          <img src="https://img.shields.io/badge/Harvard_Art-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Harvard Art" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## My Tools
+## 💻 Tech Stack
 
-<p align="left" >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vite,ts,js,html,css,tailwind,py,sass,materialui,bootstrap,styledcomponents,nodejs,express,jest,vercel,netlify,git,github,githubactions,sentry,mongodb,figma,aws,azure,docker,vscode,markdown&perline=10" />
-  </a>
-  <p align="left">
-    <img alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" /> 
-    <img alt="Affinity Photo" src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?&style=for-the-badge&logo=affinity-photo&logoColor=white"/>
-    <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-    <img alt="dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> 
-    <img alt="dribble" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /> 
-</p> 
-</p>
+<div align="center">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vite,ts,js,html,css,tailwind,sass,materialui,bootstrap,styledcomponents&perline=7" alt="Frontend" />
+  
+  <h3>Backend & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,jest,vercel,netlify,git,github,githubactions,sentry,mongodb,aws,azure,docker&perline=7" alt="Backend" />
+  
+  <h3>Design & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,markdown&perline=3" alt="Design" />
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SJellen&theme=blueberry&background=1A1C27)](https://git.io/streak-stats)
+## 🎨 Design & Creative Tools
 
-<!-- ![Profile views](https://gpvc.arturio.dev/SJellen)   -->
+<div align="center">
+  <img alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+  <img alt="Affinity Photo" src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?&style=for-the-badge&logo=affinity-photo&logoColor=white"/>
+  <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img alt="dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+</div>
 
-<!--
-**SJellen/SJellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Activity
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SJellen&theme=algolia&background=1A1C27&hide_border=true" alt="GitHub Streak" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌟 GitHub Activity
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SJellen&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+</div>
 
--->
+---
 
-<!-- 
-- 🔭 I’m currently working on getting better everyday.
-- 🌱 I’m currently learning ... Tailwind.
-- 👯 I’m looking to collaborate on ... Networking.
-- 🤔 I’m looking for help with ... growing as a developer. -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Readme Quotes" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SJellen&color=0A66C2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SJellen?label=Followers&style=social" alt="GitHub Followers" />
+</div>
