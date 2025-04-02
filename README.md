@@ -4,6 +4,8 @@
 
 <h1>👋 Hey there, I'm Scott!</h1>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Front+End+Developer;Software+Developer;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" />
+
 <p>
   <a href="https://scottjellen.com/">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
@@ -16,7 +18,8 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Front+End+Developer;Software+Developer;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" />
+<img src="https://img.shields.io/github/followers/SJellen?label=Followers&style=social" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/SJellen?label=Stars&style=social" alt="GitHub Stars" />
 
 </div>
 
@@ -91,7 +94,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,jest,vercel,netlify,git,github,githubactions,sentry,mongodb,aws,azure,docker&perline=7" alt="Backend" />
   
   <h3>Design & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=figma,vscode,markdown&perline=3" alt="Design" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,markdown,cursor&perline=4" alt="Design" />
 </div>
 
 ---
@@ -130,8 +133,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SJellen&color=0A66C2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SJellen?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/SJellen?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
 ---
