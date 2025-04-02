@@ -53,7 +53,7 @@
     <tr>
       <td>
         <a href="https://generalknowledge.vercel.app/">
-          <img src="https://img.shields.io/badge/Knowledge_Quiz-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="General Knowledge" />
+          <img src="https://img.shields.io/badge/General_Knowledge-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="General Knowledge" />
         </a>
       </td>
       <td>
@@ -70,7 +70,7 @@
     <tr>
       <td>
         <a href="https://harvard-gallery.vercel.app/">
-          <img src="https://img.shields.io/badge/Harvard_Art-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Harvard Art" />
+          <img src="https://img.shields.io/badge/Harvard_Art-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Harvard Art Gallery" />
         </a>
       </td>
       <td>
