@@ -40,7 +40,7 @@
         </a>
       </td>
       <td>
-        <a href="https://affectionate-tesla-9555b9.netlify.app/">
+        <a href="https://screening-entertainment.netlify.app/">
           <img src="https://img.shields.io/badge/Screening-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Screening" />
         </a>
       </td>
