@@ -113,5 +113,9 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SJellen&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=SJellen&color=0A66C2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 </div>
