@@ -10,9 +10,6 @@
   <a href="https://scottjellen.com/">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/scottjellen/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://github.com/SJellen">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -25,11 +22,7 @@
 
 ---
 
-### 📰 Front Page Stories
-
----
-
-#### 🚀 Featured Projects: A Collection of Digital Excellence
+#### 🚀 Featured Projects
 
 <div align="center">
   <table>
@@ -84,7 +77,7 @@
 
 ---
 
-#### 💻 Tech Stack: The Tools Behind the Magic
+#### 💻 Tech Stack
 
 <div align="center">
   <h3>Frontend</h3>
@@ -99,7 +92,7 @@
 
 ---
 
-#### 🎨 Design & Creative Tools: The Artist's Arsenal
+#### 🎨 Design & Creative Tools
 
 <div align="center">
   <img alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
@@ -111,7 +104,7 @@
 
 ---
 
-#### 📊 GitHub Activity: The Developer's Journey
+#### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=SJellen&theme=algolia&background=1A1C27&hide_border=true" alt="GitHub Streak" />
@@ -119,26 +112,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SJellen&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SJellen&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-#### 🌟 Fun Facts: The Daily Dose of Inspiration
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&width=800" alt="Readme Quotes" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SJellen&color=0A66C2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20Passion-0A66C2?style=for-the-badge" alt="Made with passion" />
 </div>
 
 </div>
