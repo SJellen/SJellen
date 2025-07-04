@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SJellen/SJellen/blob/main/images/banner.png" alt="Banner" width="100%" />
+<img src="/images/gitBanner25.png" alt="Banner" width="100%" />
 
 # Scott Jellen
 
@@ -71,5 +71,7 @@ I enjoy building clear interfaces and exploring how technical decisions ripple t
 [Portfolio](https://scottjellen.com) • [LinkedIn](https://www.linkedin.com/in/sjellen) • [GitHub](https://github.com/SJellen)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=SJellen&color=0A66C2&style=flat-square&label=)
+
 
 
