@@ -1,121 +1,75 @@
 <div align="center">
 
-<img src="https://github.com/SJellen/SJellen/blob/main/images/lkBannerAlt.png" alt="Banner" width="100%"/>
+<img src="https://github.com/SJellen/SJellen/blob/main/images/banner.png" alt="Banner" width="100%" />
 
-<h1>👋 Hey there, I'm Scott!</h1>
+# Scott Jellen
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Front+End+Developer;Software+Developer;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" />
+**Software Developer Thinking Beyond the Code**
 
-<p>
-  <a href="https://scottjellen.com/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/SJellen">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<img src="https://img.shields.io/github/followers/SJellen?label=Followers&style=social" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/SJellen?label=Stars&style=social" alt="GitHub Stars" />
+[Portfolio](https://scottjellen.com) • [LinkedIn](https://www.linkedin.com/in/sjellen) • [GitHub](https://github.com/SJellen)
 
 </div>
 
 ---
 
-#### 🚀 Featured Projects
+## 👋 About Me
+
+I'm a software developer with a systems mindset focused on building interfaces that are **performant**, **accessible**, and **designed to scale**.  
+
+I work with **React**, **Next.js**, **Vite**, and modern design systems to create responsive, maintainable web apps. I prioritize clarity — in code, in user experience, and in architecture — because small technical decisions shape long-term resilience.
+
+Beyond code, I explore how industries, platforms, and institutions evolve. I've authored strategic whitepapers proposing frameworks for college sports, league formats, AI-powered media, mobility platforms, and advertising systems.
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://media-consumption.vercel.app/">
-          <img src="https://img.shields.io/badge/Fetch_Rewards-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Fetch Rewards" />
-        </a>
-      </td>
-      <td>
-        <a href="https://screening-entertainment.netlify.app/">
-          <img src="https://img.shields.io/badge/Screening-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Screening" />
-        </a>
-      </td>
-      <td>
-        <a href="https://media-consumption.vercel.app/">
-          <img src="https://img.shields.io/badge/Media_Tracker-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Media Consumption" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://generalknowledge.vercel.app/">
-          <img src="https://img.shields.io/badge/General_Knowledge-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="General Knowledge" />
-        </a>
-      </td>
-      <td>
-        <a href="https://rm-doa.vercel.app/">
-          <img src="https://img.shields.io/badge/Rick_&_Morty-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Rick and Morty" />
-        </a>
-      </td>
-      <td>
-        <a href="https://planets-fact-site-five.vercel.app/">
-          <img src="https://img.shields.io/badge/Planets-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="The Planets" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://harvard-gallery.vercel.app/">
-          <img src="https://img.shields.io/badge/Harvard_Art-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Harvard Art Gallery" />
-        </a>
-      </td>
-      <td>
-        <a href="https://isses-svim-fe.vercel.app/">
-          <img src="https://img.shields.io/badge/Notes-0A66C2?style=for-the-badge&logo=react&logoColor=white" alt="Notes" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,tailwind,figma,nodejs,git,vercel&perline=7" alt="Tech Stack" />
+
 </div>
 
 ---
 
-#### 💻 Tech Stack
+## 📁 Featured Projects
 
-<div align="center">
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vite,ts,js,html,css,tailwind,sass,materialui,bootstrap,styledcomponents&perline=7" alt="Frontend" />
-  
-  <h3>Backend & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,jest,vercel,netlify,git,github,githubactions,sentry,mongodb,aws,azure,docker&perline=7" alt="Backend" />
-  
-  <h3>Design & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=figma,vscode,markdown,cursor&perline=4" alt="Design" />
-</div>
+- [**Media Tracker**](https://media-consumption.vercel.app)  
+  A React + Vite app for tracking media consumption with a clean, maintainable structure.
 
----
+- [**Screening**](https://screening-entertainment.netlify.app)  
+  A lightweight entertainment discovery tool with responsive design.
 
-#### 🎨 Design & Creative Tools
+- [**General Knowledge**](https://generalknowledge.vercel.app)  
+  A quiz platform built with TypeScript and modern front-end architecture.
 
-<div align="center">
-  <img alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
-  <img alt="Affinity Photo" src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?&style=for-the-badge&logo=affinity-photo&logoColor=white"/>
-  <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img alt="dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
-  <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
-</div>
+- [**Harvard Art Explorer**](https://harvard-gallery.vercel.app)  
+  Interactive gallery powered by the Harvard Art API.
+
+- [**Planets Fact Site**](https://planets-fact-site-five.vercel.app)  
+  A responsive, accessible planetary data visualization.
+
 
 ---
 
-#### 📊 GitHub Activity
+## 📝 Strategic Whitepapers
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SJellen&theme=algolia&background=1A1C27&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SJellen&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SJellen&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SJellen&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-<div align="center">
+Exploring how software thinking scales beyond code:
 
-  <img src="https://komarev.com/ghpvc/?username=SJellen&color=0A66C2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+- [**The Sports Spin-Off**](https://scottjellen.com/whitepapers) — Restructuring college athletics for long-term sustainability.  
+- [**The Hybrid Season**](https://scottjellen.com/whitepapers) — A new structural model for professional sports leagues.  
+- [**The Fourth Act**](https://scottjellen.com/whitepapers) — AI-powered, participatory cinema platforms.  
+- [**The $1,000 Problem**](https://scottjellen.com/whitepapers) — Rethinking car ownership through OEM-led subscription models.  
+- [**Artificial Enhanced Experience Advertising (AEEA)**](https://scottjellen.com/whitepapers) — Localized, shoppable video ad formats.  
 
-</div>
+---
+
+## 📬 Let's Connect
+
+I enjoy building clear interfaces and exploring how technical decisions ripple through products, platforms, and institutions.  
+
+[Portfolio](https://scottjellen.com) • [LinkedIn](https://www.linkedin.com/in/sjellen) • [GitHub](https://github.com/SJellen)
+
+---
+
+
