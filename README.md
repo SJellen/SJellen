@@ -2,9 +2,9 @@
 
 <img src="/images/gitBanner25.png" alt="Banner" width="100%" />
 
-# Scott Jellen
+<!-- # Scott Jellen
 
-**Software Developer Thinking Beyond the Code**
+**Software Developer Thinking Beyond the Code** -->
 
 [Portfolio](https://scottjellen.com) • [LinkedIn](https://www.linkedin.com/in/sjellen) • [GitHub](https://github.com/SJellen)
 
