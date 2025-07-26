@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a software developer with a systems mindset focused on building interfaces that are **performant**, **accessible**, and **designed to scale**.  
+I'm a software developer with a systems mindset focused on building interfaces that are **performant**, **accessible**, and **designed to scale**.
 
 I work with **React**, **Next.js**, **Vite**, and modern design systems to create responsive, maintainable web apps. I prioritize clarity — in code, in user experience, and in architecture — because small technical decisions shape long-term resilience.
 
@@ -49,29 +49,27 @@ Beyond code, I explore how industries, platforms, and institutions evolve. I've 
 - [**Planets Fact Site**](https://planets-fact-site-five.vercel.app)  
   A responsive, accessible planetary data visualization.
 
-
 ---
 
 ## 📝 Strategic Whitepapers
 
 Exploring how software thinking scales beyond code:
 
-- [**The Sports Spin-Off**](https://scottjellen.com/whitepapers) — Restructuring college athletics for long-term sustainability.  
-- [**The Hybrid Season**](https://scottjellen.com/whitepapers) — A new structural model for professional sports leagues.  
-- [**The Fourth Act**](https://scottjellen.com/whitepapers) — AI-powered, participatory cinema platforms.  
-- [**The $1,000 Problem**](https://scottjellen.com/whitepapers) — Rethinking car ownership through OEM-led subscription models.  
-- [**Artificial Enhanced Experience Advertising (AEEA)**](https://scottjellen.com/whitepapers) — Localized, shoppable video ad formats.  
+- [**The Sports Spin-Off**](https://scottjellen.com/whitepapers/the-sports-spin-off) — Restructuring college athletics for long-term sustainability.
+- [**The Hybrid Season**](https://scottjellen.com/whitepapers/the-hybrid-season) — A new structural model for professional sports leagues.
+- [**The Fourth Act**](https://scottjellen.com/whitepapers/the-fourth-act-how-theaters-could-host-the-next-era-of-storytelling) — AI-powered, participatory cinema platforms.
+- [**The $1,000 Problem**](https://scottjellen.com/whitepapers/the-1000-problem-the-750-solution) — Rethinking car ownership through OEM-led subscription models.
+- [**Artificial Enhanced Experience Advertising (AEEA)**](https://scottjellen.com/whitepapers/artificial-enhanced-experience-advertising) — Localized, shoppable video ad formats.
+- [**Less Than Net Zero**](https://scottjellen.com/whitepapers/less-than-net-zero) — How AI can fund national electrification and expand U.S. energy infrastructure without taxpayer burden.
 
 ---
 
 ## 📬 Let's Connect
 
-I enjoy building clear interfaces and exploring how technical decisions ripple through products, platforms, and institutions.  
+I enjoy building clear interfaces and exploring how technical decisions ripple through products, platforms, and institutions.
 
 [Portfolio](https://scottjellen.com) • [LinkedIn](https://www.linkedin.com/in/sjellen) • [GitHub](https://github.com/SJellen)
 
 ---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SJellen&color=0A66C2&style=flat-square&label=)
-
-
-
