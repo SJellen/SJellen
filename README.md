@@ -51,6 +51,14 @@ Beyond code, I explore how industries, platforms, and institutions evolve. I've 
 
 ---
 
+## 🧠 Platform Memo
+
+Exploring how platforms can evolve from extractive systems into resilient, human-centered infrastructure:
+
+- [**The Human, the Robot, and the Fire**](https://scottjellen.com/whitepapers/the-human-the-robot-and-the-fire) — A strategic memo proposing Humanity First Platforms as a new design model for the institutions replacing public systems.
+
+---
+
 ## 📝 Strategic Whitepapers
 
 Exploring how software thinking scales beyond code:
