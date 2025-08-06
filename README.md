@@ -62,18 +62,24 @@ Exploring how platforms can evolve from extractive systems into resilient, human
 ## 📝 Strategic Whitepapers
 
 Exploring how software thinking scales beyond code:
+- [**The Shadow Subscription**](https://scottjellen.com/whitepapers/the-shadow-subscription) — How Netflix could extract subscription-equivalent revenue from non-subscribers by acquiring cable and FAST channels — creating a backdoor tier through ads, carriage fees, and catalog licensing.
+
+- [**Less Than Net Zero**](https://scottjellen.com/whitepapers/less-than-net-zero) — How AI can fund national electrification and expand U.S. energy infrastructure without taxpayer burden.
 
 - [**The Sports Spin-Off**](https://scottjellen.com/whitepapers/the-sports-spin-off) — Restructuring college athletics for long-term sustainability.
+
+- [**The $1,000 Problem**](https://scottjellen.com/whitepapers/the-1000-problem-the-750-solution) — Rethinking car ownership through OEM-led subscription models.
 
 - [**The Hybrid Season**](https://scottjellen.com/whitepapers/the-hybrid-season) — A new structural model for professional sports leagues.
 
 - [**The Fourth Act**](https://scottjellen.com/whitepapers/the-fourth-act-how-theaters-could-host-the-next-era-of-storytelling) — AI-powered, participatory cinema platforms.
 
-- [**The $1,000 Problem**](https://scottjellen.com/whitepapers/the-1000-problem-the-750-solution) — Rethinking car ownership through OEM-led subscription models.
-
 - [**Artificial Enhanced Experience Advertising (AEEA)**](https://scottjellen.com/whitepapers/artificial-enhanced-experience-advertising) — Localized, shoppable video ad formats.
 
-- [**Less Than Net Zero**](https://scottjellen.com/whitepapers/less-than-net-zero) — How AI can fund national electrification and expand U.S. energy infrastructure without taxpayer burden.
+
+
+
+
 
 ---
 
