@@ -76,12 +76,14 @@ Exploring how software thinking scales beyond code:
 
 - [**Artificial Enhanced Experience Advertising (AEEA)**](https://scottjellen.com/whitepapers/artificial-enhanced-experience-advertising) — Localized, shoppable video ad formats.
 
-
-
-
-
-
 ---
+
+## 📄 Product Specs
+
+Design artifacts that bridge strategy and implementation:
+
+- [**Surprise Me: Xbox Public Spec**](https://scottjellen.com/specs/xbox-surprise-me) — A frictionless entertainment feature for Xbox that repositions discovery as delight, using system-level UX to reduce decision fatigue.
+
 
 ## 📬 Let's Connect
 
