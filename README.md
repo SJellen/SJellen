@@ -82,7 +82,7 @@ Exploring how software thinking scales beyond code:
 
 Design artifacts that bridge strategy and implementation:
 
-- [**Surprise Me: Xbox Public Spec**](https://scottjellen.com/specs/xbox-surprise-me) — A frictionless entertainment feature for Xbox that repositions discovery as delight, using system-level UX to reduce decision fatigue.
+- [**Surprise Me: Xbox Public Spec**](https://scottjellen.com/whitepapers/public-spec-1-surface-surprise-me-at-the-system-level-on-xbox) — A frictionless entertainment feature for Xbox that repositions discovery as delight, using system-level UX to reduce decision fatigue.
 
 
 ## 📬 Let's Connect
