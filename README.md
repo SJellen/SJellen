@@ -62,6 +62,9 @@ Exploring how platforms can evolve from extractive systems into resilient, human
 ## 📝 Strategic Whitepapers
 
 Exploring how software thinking scales beyond code:
+
+- [**Minimum Viable Classroom**](https://scottjellen.com/whitepapers/minimum-viable-classroom) — A blueprint-grade national infrastructure plan that guarantees daily grade-level instruction for every student in America, backed by a modular, locally governed “education OS.”
+
 - [**The Shadow Subscription**](https://scottjellen.com/whitepapers/the-shadow-subscription) — How Netflix could extract subscription-equivalent revenue from non-subscribers by acquiring cable and FAST channels — creating a backdoor tier through ads, carriage fees, and catalog licensing.
 
 - [**Less Than Net Zero**](https://scottjellen.com/whitepapers/less-than-net-zero) — How AI can fund national electrification and expand U.S. energy infrastructure without taxpayer burden.
