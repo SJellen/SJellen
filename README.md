@@ -88,7 +88,7 @@ Projects designed for clarity, performance, and real-world use:
 - [**Planets Fact Site**](https://planets-fact-site-five.vercel.app)  
   A responsive, accessible planetary data visualization.
 
-  ---
+---
 
 ## 📬 Let's Connect
 
