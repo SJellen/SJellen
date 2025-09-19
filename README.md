@@ -21,23 +21,6 @@ I work with **React**, **Next.js**, **Vite**, and modern design systems to creat
 Beyond code, I explore how industries, platforms, and institutions evolve. I've authored strategic whitepapers proposing frameworks for college sports, league formats, AI-powered media, mobility platforms, and advertising systems.
 
 
-## 📁 Featured Projects
-
-- [**Media Tracker**](https://media-consumption.vercel.app)  
-  A React + Vite app for tracking media consumption with a clean, maintainable structure.
-
-- [**Screening**](https://screening-entertainment.netlify.app)  
-  A lightweight entertainment discovery tool with responsive design.
-
-- [**General Knowledge**](https://generalknowledge.vercel.app)  
-  A quiz platform built with TypeScript and modern front-end architecture.
-
-- [**Harvard Art Explorer**](https://harvard-gallery.vercel.app)  
-  Interactive gallery powered by the Harvard Art API.
-
-- [**Planets Fact Site**](https://planets-fact-site-five.vercel.app)  
-  A responsive, accessible planetary data visualization.
-
 ---
 
 ## 🏗 Flagship Blueprint
@@ -83,6 +66,29 @@ Design artifacts that bridge strategy and implementation:
 
 - [**Surprise Me: Xbox Public Spec**](https://scottjellen.com/whitepapers/public-spec-1-surface-surprise-me-at-the-system-level-on-xbox) — A frictionless entertainment feature for Xbox that repositions discovery as delight, using system-level UX to reduce decision fatigue.
 
+
+---
+
+## 📁 Featured Projects
+
+Projects designed for clarity, performance, and real-world use:
+
+- [**Media Tracker**](https://media-consumption.vercel.app)  
+  A React + Vite app for tracking media consumption with a clean, maintainable structure.
+
+- [**Screening**](https://screening-entertainment.netlify.app)  
+  A lightweight entertainment discovery tool with responsive design.
+
+- [**General Knowledge**](https://generalknowledge.vercel.app)  
+  A quiz platform built with TypeScript and modern front-end architecture.
+
+- [**Harvard Art Explorer**](https://harvard-gallery.vercel.app)  
+  Interactive gallery powered by the Harvard Art API.
+
+- [**Planets Fact Site**](https://planets-fact-site-five.vercel.app)  
+  A responsive, accessible planetary data visualization.
+
+  ---
 
 ## 📬 Let's Connect
 
