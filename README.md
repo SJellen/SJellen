@@ -40,6 +40,14 @@ Beyond code, I explore how industries, platforms, and institutions evolve. I've 
 
 ---
 
+## 🏗 Flagship Blueprint
+
+Real-world infrastructure designs — award-ready, implementation-grade.
+
+- [**Minimum Viable Classroom**](https://scottjellen.com/whitepapers/minimum-viable-classroom) — A blueprint-grade national infrastructure plan that guarantees daily grade-level instruction for every student in America, backed by a modular, locally governed “education OS.”
+
+---
+
 ## 🧠 Platform Memo
 
 Exploring how platforms can evolve from extractive systems into resilient, human-centered infrastructure:
@@ -52,7 +60,6 @@ Exploring how platforms can evolve from extractive systems into resilient, human
 
 Exploring how software thinking scales beyond code:
 
-- [**Minimum Viable Classroom**](https://scottjellen.com/whitepapers/minimum-viable-classroom) — A blueprint-grade national infrastructure plan that guarantees daily grade-level instruction for every student in America, backed by a modular, locally governed “education OS.”
 
 - [**The Shadow Subscription**](https://scottjellen.com/whitepapers/the-shadow-subscription) — How Netflix could extract subscription-equivalent revenue from non-subscribers by acquiring cable and FAST channels — creating a backdoor tier through ads, carriage fees, and catalog licensing.
 
