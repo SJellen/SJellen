@@ -16,21 +16,10 @@
 
 I'm a software developer with a systems mindset focused on building interfaces that are **performant**, **accessible**, and **designed to scale**.
 
-I work with **React**, **Next.js**, **Vite**, and modern design systems to create responsive, maintainable web apps. I prioritize clarity — in code, in user experience, and in architecture — because small technical decisions shape long-term resilience.
+I work with **React**, **Next.js**, **Vite**, and modern design systems to create responsive, maintainable web apps. I prioritize clarity in code, in user experience, and in architecture because small technical decisions shape long-term resilience.
 
 Beyond code, I explore how industries, platforms, and institutions evolve. I've authored strategic whitepapers proposing frameworks for college sports, league formats, AI-powered media, mobility platforms, and advertising systems.
 
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,tailwind,figma,nodejs,git,vercel&perline=7" alt="Tech Stack" />
-
-</div>
-
----
 
 ## 📁 Featured Projects
 
