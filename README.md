@@ -42,7 +42,7 @@ Exploring how platforms can evolve from extractive systems into resilient, human
 ## 📝 Strategic Whitepapers
 
 Exploring how software thinking scales beyond code:
-
+- [**The Content Layer**](https://scottjellen.com/whitepapers/the-content-layer) — A constitutional redesign of the browser start page that transforms wasted surface into governed infrastructure, funding open standards, digital rights defense, and civic technology through a neutral revenue skim.
 
 - [**The Shadow Subscription**](https://scottjellen.com/whitepapers/the-shadow-subscription) — How Netflix could extract subscription-equivalent revenue from non-subscribers by acquiring cable and FAST channels — creating a backdoor tier through ads, carriage fees, and catalog licensing.
 
