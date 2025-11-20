@@ -1,101 +1,88 @@
-<div align="center">
+# Scott Jellen  
+### Independent Researcher · Systems Thinking · Protocol Design
 
-<img src="/images/gitBanner25.png" alt="Banner" width="100%" />
+I explore how sports, media, and digital systems can be structured more cleanly through **interoperability**, **rights modeling**, and **protocol-oriented design**.
 
-<!-- # Scott Jellen
+My work is early-stage but focused on building **coherent, well-documented artifacts** rather than producing volume. Everything here is iterative, transparent, and meant to improve over time.
 
-**Software Developer Thinking Beyond the Code** -->
+---
+## 📡 Current Work: Universal Sports Graph (USG)
+
+USG is an ongoing experiment in treating sports broadcast rights as structured data.
+
+**What exists today:**
+- A **Blueprint whitepaper** (DOI-backed)
+- **RFC 0001** (initial protocol draft)
+- Early **JSON schemas** (event, entitlement, settlement)
+- A developing **protocols repo** with examples and diagrams
+
+**What is planned but not yet built:**
+- Additional RFCs
+- A simple registry
+- A reference API or SDK
+
+I keep expectations realistic: this is exploratory research, not a standard.  
+All documents are published early, in-progress, and subject to revision.
+
+Repo: https://github.com/SJellen/protocols
+
+---
+## 📚 Whitepapers
+
+I write conceptual papers about systems, institutions, and platform design.  
+Not all are “blueprint-level”; many are simply structured thinking.
+
+**Completed / Published:**
+- **The Universal Sports Graph — Blueprint Edition**  
+- **The Sports Spin-Off**  
+- **The Hybrid Season**  
+- **The Fourth Act**  
+- **The $1,000 Problem / $750 Solution**  
+- **The Shadow Subscription**  
+- **The Content Layer**  
+- **Minimum Viable Classroom**  
+- **Less Than Net Zero**  
+- **AEEA (Artificial Enhanced Experience Advertising)**  
+
+Full list: https://scottjellen.com/whitepapers
+
+---
+## 📝 Briefs (Early Drafts)
+
+Shorter summaries or exploratory notes based on my longer work.  
+Most are work-in-progress and published when they feel useful.
+
+Archive: https://scottjellen.com/briefs
+
+---
+## 🔧 Software Work
+
+While most of my current focus is research, I still build front-end prototypes to test ideas.
+
+Some public projects include:
+- Media Tracker (React)
+- Screening (entertainment discovery tool)
+- Harvard Art Explorer
+- General Knowledge (quiz platform)
+
+These are straightforward builds that reflect my front-end background.
+
+---
+## 🧭 Approach
+
+My research is guided by:
+- clarity over scale  
+- documentation over speed  
+- strong versioning and transparency  
+- publishing early rather than waiting for “perfect”
+
+I’m not trying to be a think tank or a company.  
+This is simply an **independent research practice** focused on systems that interest me.
+
+---
+## 📬 Contact
+
+For collaboration, technical questions, or research discussion:  
+**https://scottjellen.com/contact**
 
 [Portfolio](https://scottjellen.com) • [LinkedIn](https://www.linkedin.com/in/sjellen) • [GitHub](https://github.com/SJellen)
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm a software developer with a systems mindset focused on building interfaces that are **performant**, **accessible**, and **designed to scale**.
-
-I work with **React**, **Next.js**, **Vite**, and modern design systems to create responsive, maintainable web apps. I prioritize clarity in code, in user experience, and in architecture because small technical decisions shape long-term resilience.
-
-Beyond code, I explore how industries, platforms, and institutions evolve. I've authored strategic whitepapers proposing frameworks for college sports, league formats, AI-powered media, mobility platforms, and advertising systems.
-
-
----
-
-## 🏗 Flagship Blueprint
-
-Real-world infrastructure designs — award-ready, implementation-grade.
-
-- [**Minimum Viable Classroom**](https://scottjellen.com/whitepapers/minimum-viable-classroom) — A blueprint-grade national infrastructure plan that guarantees daily grade-level instruction for every student in America, backed by a modular, locally governed “education OS.”
-
----
-
-## 🧠 Platform Memo
-
-Exploring how platforms can evolve from extractive systems into resilient, human-centered infrastructure:
-
-- [**The Human, the Robot, and the Fire**](https://scottjellen.com/whitepapers/the-human-the-robot-and-the-fire) — A strategic memo proposing Humanity First Platforms as a new design model for the institutions replacing public systems.
-
----
-
-## 📝 Strategic Whitepapers
-
-Exploring how software thinking scales beyond code:
-- [**The Content Layer**](https://scottjellen.com/whitepapers/the-content-layer) — A constitutional redesign of the browser start page that transforms wasted surface into governed infrastructure, funding open standards, digital rights defense, and civic technology through a neutral revenue skim.
-
-- [**The Shadow Subscription**](https://scottjellen.com/whitepapers/the-shadow-subscription) — How Netflix could extract subscription-equivalent revenue from non-subscribers by acquiring cable and FAST channels — creating a backdoor tier through ads, carriage fees, and catalog licensing.
-
-- [**Less Than Net Zero**](https://scottjellen.com/whitepapers/less-than-net-zero) — How AI can fund national electrification and expand U.S. energy infrastructure without taxpayer burden.
-
-- [**The Sports Spin-Off**](https://scottjellen.com/whitepapers/the-sports-spin-off) — Restructuring college athletics for long-term sustainability.
-
-- [**The $1,000 Problem**](https://scottjellen.com/whitepapers/the-1000-problem-the-750-solution) — Rethinking car ownership through OEM-led subscription models.
-
-- [**The Hybrid Season**](https://scottjellen.com/whitepapers/the-hybrid-season) — A new structural model for professional sports leagues.
-
-- [**The Fourth Act**](https://scottjellen.com/whitepapers/the-fourth-act-how-theaters-could-host-the-next-era-of-storytelling) — AI-powered, participatory cinema platforms.
-
-- [**Artificial Enhanced Experience Advertising (AEEA)**](https://scottjellen.com/whitepapers/artificial-enhanced-experience-advertising) — Localized, shoppable video ad formats.
-
----
-
-## 📄 Product Specs
-
-Design artifacts that bridge strategy and implementation:
-
-- [**Surprise Me: Xbox Public Spec**](https://scottjellen.com/whitepapers/public-spec-1-surface-surprise-me-at-the-system-level-on-xbox) — A frictionless entertainment feature for Xbox that repositions discovery as delight, using system-level UX to reduce decision fatigue.
-
-
----
-
-## 📁 Featured Projects
-
-Projects designed for clarity, performance, and real-world use:
-
-- [**Media Tracker**](https://media-consumption.vercel.app)  
-  A React + Vite app for tracking media consumption with a clean, maintainable structure.
-
-- [**Screening**](https://screening-entertainment.netlify.app)  
-  A lightweight entertainment discovery tool with responsive design.
-
-- [**General Knowledge**](https://generalknowledge.vercel.app)  
-  A quiz platform built with TypeScript and modern front-end architecture.
-
-- [**Harvard Art Explorer**](https://harvard-gallery.vercel.app)  
-  Interactive gallery powered by the Harvard Art API.
-
-- [**Planets Fact Site**](https://planets-fact-site-five.vercel.app)  
-  A responsive, accessible planetary data visualization.
-
----
-
-## 📬 Let's Connect
-
-I enjoy building clear interfaces and exploring how technical decisions ripple through products, platforms, and institutions.
-
-[Portfolio](https://scottjellen.com) • [LinkedIn](https://www.linkedin.com/in/sjellen) • [GitHub](https://github.com/SJellen)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=SJellen&color=0A66C2&style=flat-square&label=)
