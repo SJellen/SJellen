@@ -21,7 +21,7 @@ USG is an ongoing experiment in treating sports broadcast rights as structured d
 - A simple registry
 - A reference API or SDK
 
-I keep expectations realistic: this is exploratory research, not a standard.  
+
 All documents are published early, in-progress, and subject to revision.
 
 Repo: https://github.com/SJellen/protocols
