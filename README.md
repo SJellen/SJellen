@@ -75,10 +75,7 @@ My research is guided by:
 - documentation over speed  
 - strong versioning and transparency  
 - publishing early rather than waiting for “perfect”
-
-I’m not trying to be a think tank or a company.  
-This is simply an **independent research practice** focused on systems that interest me.
-
+ 
 ---
 ## 📬 Contact
 
