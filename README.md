@@ -1,36 +1,38 @@
 # Scott Jellen  
 ### Independent Researcher · Systems Thinking · Protocol Design
 
-I explore how sports, media, and digital systems can be structured more cleanly through **interoperability**, **rights modeling**, and **protocol-oriented design**.
+I explore how complex systems — in sports, media, mobility, education, and digital infrastructure — can be redesigned through **interoperability**, **rights modeling**, and **protocol-oriented architecture**.
 
-My work is early-stage but focused on building **coherent, well-documented artifacts** rather than producing volume. Everything here is iterative, transparent, and meant to improve over time.
+This repository is the home for my RFCs, schemas, drafts, and reference artifacts.  
+My work is early-stage but focused on building **coherent, well-documented artifacts** with clear versioning and transparent iteration.
 
 ---
+
 ## 📡 Current Work: Universal Sports Graph (USG)
 
-USG is an ongoing experiment in treating sports broadcast rights as structured data.
+USG is a **new protocol** for treating sports broadcast rights as structured, interoperable data.
 
 **What exists today:**
-- A **Blueprint whitepaper** (DOI-backed)
-- **RFC 0001** (initial protocol draft)
-- Early **JSON schemas** (event, entitlement, settlement)
-- A developing **protocols repo** with examples and diagrams
+- A **Blueprint whitepaper** (DOI-backed)  
+- **RFC 0001** (initial protocol draft)  
+- Early **JSON schemas** (event, entitlement, settlement)  
+- A developing **protocols repo** with examples and diagrams  
 
 **What is planned but not yet built:**
-- Additional RFCs
-- A simple registry
-- A reference API or SDK
+- Additional RFCs  
+- A lightweight registry  
+- A reference API or SDK  
 
-
-All documents are published early, in-progress, and subject to revision.
+All documents are published early, in-progress, and subject to revision (v0.x).
 
 Repo: https://github.com/SJellen/protocols
 
 ---
+
 ## 📚 Whitepapers
 
 I write conceptual papers about systems, institutions, and platform design.  
-Not all are “blueprint-level”; many are simply structured thinking.
+Some are blueprint-level; others are structured thinking meant to surface new models.
 
 **Completed / Published:**
 - **The Universal Sports Graph — Blueprint Edition**  
@@ -47,39 +49,43 @@ Not all are “blueprint-level”; many are simply structured thinking.
 Full list: https://scottjellen.com/whitepapers
 
 ---
+
 ## 📝 Briefs (Early Drafts)
 
-Shorter summaries or exploratory notes based on my longer work.  
-Most are work-in-progress and published when they feel useful.
+Shorter, decision-ready documents derived from my longer work.  
+Published when they feel useful, not when they feel finished.
 
 Archive: https://scottjellen.com/briefs
 
 ---
+
 ## 🔧 Software Work
 
-While most of my current focus is research, I still build front-end prototypes to test ideas.
+While my focus is research, I prototype interfaces and tools as needed.
 
-Some public projects include:
-- Media Tracker (React)
-- Screening (entertainment discovery tool)
-- Harvard Art Explorer
-- General Knowledge (quiz platform)
+Some public builds:
+- Media Tracker (React)  
+- Screening (entertainment discovery tool)  
+- Harvard Art Explorer  
+- General Knowledge (quiz platform)  
 
-These are straightforward builds that reflect my front-end background.
+These reflect my front-end background and help test ideas.
 
 ---
+
 ## 🧭 Approach
 
-My research is guided by:
+Guiding principles:
 - clarity over scale  
 - documentation over speed  
 - strong versioning and transparency  
-- publishing early rather than waiting for “perfect”
- 
+- publish early rather than wait for “perfect”  
+
 ---
+
 ## 📬 Contact
 
-For collaboration, technical questions, or research discussion:  
+For collaboration or research discussions:  
 **https://scottjellen.com/contact**
 
 [Portfolio](https://scottjellen.com) • [LinkedIn](https://www.linkedin.com/in/sjellen) • [GitHub](https://github.com/SJellen)
