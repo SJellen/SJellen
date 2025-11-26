@@ -1,91 +1,76 @@
 # Scott Jellen  
-### Independent Researcher · Systems Thinking · Protocol Design
+### Independent Researcher · Protocol Design · Rights Modeling
 
-I explore how complex systems — in sports, media, mobility, education, and digital infrastructure — can be redesigned through **interoperability**, **rights modeling**, and **protocol-oriented architecture**.
+I study how rights, incentives, and system architecture can be represented more clearly through **standards-style models**, **schemas**, and **protocol-oriented design**.
 
-This repository is the home for my RFCs, schemas, drafts, and reference artifacts.  
-My work is early-stage but focused on building **coherent, well-documented artifacts** with clear versioning and transparent iteration.
+This repository contains my RFC-style documents, schema drafts, examples, and reference artifacts.  
+The work is early-stage, exploratory, and published with transparent versioning.
 
 ---
 
 ## 📡 Current Work: Universal Sports Graph (USG)
 
-USG is a **new protocol** for treating sports broadcast rights as structured, interoperable data.
+USG is an **emerging protocol** for representing sports broadcast rights as structured, interoperable data.
 
-**What exists today:**
-- A **Blueprint whitepaper** (DOI-backed)  
-- **RFC 0001** (initial protocol draft)  
-- Early **JSON schemas** (event, entitlement, settlement)  
-- A developing **protocols repo** with examples and diagrams  
+**Currently available:**
+- Blueprint whitepaper (DOI-backed)  
+- **RFC 0001** — initial protocol draft  
+- Early JSON schemas (event, entitlement, settlement)  
+- Initial diagrams and examples  
 
-**What is planned but not yet built:**
+**In development:**
 - Additional RFCs  
-- A lightweight registry  
-- A reference API or SDK  
-
-All documents are published early, in-progress, and subject to revision (v0.x).
+- Registry concepts  
+- Reference implementation sketches  
 
 Repo: https://github.com/SJellen/protocols
 
 ---
 
-## 📚 Whitepapers
+## 📚 Research Papers
 
-I write conceptual papers about systems, institutions, and platform design.  
-Some are blueprint-level; others are structured thinking meant to surface new models.
+A catalog of whitepapers exploring rights structures, incentives, and system design across selected sectors.
 
-**Completed / Published:**
+Highlights include:
 - **The Universal Sports Graph — Blueprint Edition**  
 - **The Sports Spin-Off**  
-- **The Hybrid Season**  
-- **The Fourth Act**  
-- **The $1,000 Problem / $750 Solution**  
-- **The Shadow Subscription**  
 - **The Content Layer**  
-- **Minimum Viable Classroom**  
-- **Less Than Net Zero**  
-- **AEEA (Artificial Enhanced Experience Advertising)**  
+- **The Shadow Subscription**  
 
-Full list: https://scottjellen.com/whitepapers
+Full archive: https://scottjellen.com/whitepapers
 
 ---
 
-## 📝 Briefs (Early Drafts)
+## 📝 Briefs
 
-Shorter, decision-ready documents derived from my longer work.  
-Published when they feel useful, not when they feel finished.
+Concise summaries derived from larger research artifacts — intended to clarify structure, incentives, or implementation patterns.
 
 Archive: https://scottjellen.com/briefs
 
 ---
 
-## 🔧 Software Work
+## 🔧 Software (Prototypes)
 
-While my focus is research, I prototype interfaces and tools as needed.
+Lightweight builds used for experimentation and interface testing.
 
-Some public builds:
 - Media Tracker (React)  
-- Screening (entertainment discovery tool)  
+- Screening  
 - Harvard Art Explorer  
-- General Knowledge (quiz platform)  
-
-These reflect my front-end background and help test ideas.
 
 ---
 
-## 🧭 Approach
+## 🧭 Research Approach
 
-Guiding principles:
 - clarity over scale  
-- documentation over speed  
-- strong versioning and transparency  
-- publish early rather than wait for “perfect”  
+- versioning over polish  
+- publish early, refine over time  
+- treat systems as structures: rights → access → incentives → outcomes  
 
 ---
 
 ## 📬 Contact
 
-For collaboration or research discussions:  
-**https://scottjellen.com/contact**
+For questions or research discussion:  
+https://scottjellen.com/contact
 
-[Portfolio](https://scottjellen.com) • [LinkedIn](https://www.linkedin.com/in/sjellen) • [GitHub](https://github.com/SJellen)
+[Portfolio](https://scottjellen.com) • [LinkedIn](https://www.linkedin.com/in/sjellen/)
