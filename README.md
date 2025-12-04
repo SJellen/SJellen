@@ -1,7 +1,7 @@
 # Scott Jellen  
 ### Independent Researcher · Protocol Design · Rights Modeling
 
-I study how rights, incentives, and system architecture can be represented more clearly through **standards-style models**, **schemas**, and **protocol-oriented design**.
+I study how rights, incentives, and system architecture can be represented more clearly through standards-style models, schemas, and protocol-oriented design.
 
 This repository contains my RFC-style documents, schema drafts, examples, and reference artifacts.  
 The work is early-stage, exploratory, and published with transparent versioning.
@@ -10,18 +10,26 @@ The work is early-stage, exploratory, and published with transparent versioning.
 
 ## 📡 Current Work: Universal Sports Graph (USG)
 
-USG is an **emerging protocol** for representing sports broadcast rights as structured, interoperable data.
+USG is an emerging protocol for representing sports broadcast rights as structured, interoperable data.
 
-**Currently available:**
-- Blueprint whitepaper (DOI-backed)  
-- **RFC 0001** — initial protocol draft  
-- Early JSON schemas (event, entitlement, settlement)  
-- Initial diagrams and examples  
+### Published Artifacts
+- Blueprint Whitepaper (DOI-backed)  
+- RFC 0001 — The Universal Sports Graph  
+  Defines the rights graph, entitlement model, and neutral clearinghouse concept.
+- RFC 0002 — USG Entitlement Token Profile  
+  Standards-track definition of tokenized access: required claims, validation rules, and interoperability properties.
 
-**In development:**
-- Additional RFCs  
-- Registry concepts  
+### Schemas & Examples
+- Event schema  
+- Entitlement token schema  
+- Settlement record schema  
+- Early diagrams (stack, flows, validation)
+
+### In Development
+- Additional RFCs (0003+)  
+- Registry layer concepts  
 - Reference implementation sketches  
+- Expanded governance and audit models  
 
 Repo: https://github.com/SJellen/protocols
 
@@ -32,17 +40,16 @@ Repo: https://github.com/SJellen/protocols
 A catalog of whitepapers exploring rights structures, incentives, and system design across selected sectors.
 
 Highlights include:
-- **The Universal Sports Graph — Blueprint Edition**  
-- **The Sports Spin-Off**  
-- **The Content Layer**  
-- **The Shadow Subscription**  
+- The Universal Sports Graph — Blueprint Edition  
+- The Sports Spin-Off  
+- The Content Layer  
+- The Shadow Subscription  
 
 Full archive: https://scottjellen.com/whitepapers
 
 ---
 
-## 📝 Briefs
-
+## 📝 Briefs  
 Concise summaries derived from larger research artifacts — intended to clarify structure, incentives, or implementation patterns.
 
 Archive: https://scottjellen.com/briefs
@@ -73,4 +80,5 @@ Lightweight builds used for experimentation and interface testing.
 For questions or research discussion:  
 https://scottjellen.com/contact
 
-[Portfolio](https://scottjellen.com) • [LinkedIn](https://www.linkedin.com/in/sjellen/)
+Portfolio: https://scottjellen.com  
+LinkedIn: https://www.linkedin.com/in/sjellen/
