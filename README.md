@@ -1,50 +1,90 @@
 # Scott Jellen  
 ### Independent Researcher · Protocol Design · Rights Modeling
 
-I study how rights, incentives, and system architecture can be represented clearly through **standards-style protocols**, **schemas**, and **reference models**.
+I research how rights, incentives, and system architecture can be represented clearly through **standards-style protocols**, **schemas**, and **reference registries**.
 
-This profile serves as an **index and entry point** for my protocol-oriented research, including RFC-style specifications, schema drafts, registry artifacts, and supporting reference tools.
+This GitHub profile serves as an **index and entry point** for my protocol-oriented research. Canonical specifications, schemas, and registries are developed and versioned openly, with explicit scope, lifecycle status, and archival discipline.
 
-Primary development and canonical artifacts are maintained in the `SJellen/protocols` repository, with transparent versioning and explicit scope.
+Primary development and authoritative artifacts are maintained in the **`sjellen/protocols`** repository.
 
 
 ---
 
-## 📡 Flagship Work: Universal Sports Graph (USG)
+## 📡 Flagship Protocol: Universal Sports Graph (USG)
 
-The **Universal Sports Graph (USG)** is an emerging protocol for representing sports broadcast rights as structured, interoperable data.
+The **Universal Sports Graph (USG)** is a protocol stack for representing sports broadcast rights as structured, interoperable data.
 
 USG defines a neutral, machine-readable layer for:
-- rights registration  
-- access authorization  
-- settlement and auditability  
 
-The goal is to clarify incentives across leagues, platforms, distributors, and audiences by making rights computable.
+- rights definition and ownership  
+- entitlement and access authorization  
+- registry-backed auditability and settlement primitives  
 
-### Published Artifacts
-- **The Universal Sports Graph — Blueprint Edition** (DOI-backed whitepaper)  
+The goal is to make sports rights **computable**, reducing ambiguity across leagues, distributors, platforms, regulators, and downstream systems.
+
+---
+
+## 📘 Canonical Publications
+
+- **The Universal Sports Graph — Blueprint Edition**  
+  DOI-backed whitepaper defining the problem space, protocol goals, and architectural framing.
+
 - **RFC 0001 — The Universal Sports Graph**  
-  Core rights graph, access surface, and clearinghouse model.
+  Core rights graph model, access surface, and clearinghouse abstraction.
+
 - **RFC 0002 — USG Entitlement Token Profile**  
-  Standards-track specification defining tokenized access, required claims, validation rules, security properties, and interoperability expectations.
+  Standards-track specification defining entitlement tokens, required claims, validation rules, security properties, and interoperability expectations.
+
 - **RFC 0003 — USG Registry Architecture**  
-  Standards-track specification defining canonical registry object models, identifier semantics, lifecycle rules, canonical JSON and digest requirements, index structures, federation rules, and validation requirements.
+  Standards-track specification defining:
+  - canonical registry object models  
+  - identifier and namespace semantics  
+  - lifecycle and mutation rules  
+  - canonical JSON forms and digest requirements  
+  - deterministic index structures  
+  - federation and multi-authority constraints  
 
-Together, RFCs 0001–0003 define the **minimum viable USG protocol stack**:  
-**rights graph → access enforcement → authoritative data substrate**.
+Together, RFCs **0001–0003** define the **minimum viable USG protocol stack**:
 
-### Schemas & Reference Artifacts
-- Registry object schemas  
-- Event, league, team, venue, broadcaster, and rights-bundle definitions  
-- Entitlement token and settlement record schemas  
-- Deterministic index files and registry metadata  
-- Validation and integrity-check tooling (illustrative, non-production)
+**rights graph → entitlement enforcement → authoritative registry substrate**
 
-### In Development
-- Governance and compliance RFCs  
-- Settlement and clearinghouse extensions  
-- Registry federation and multi-authority models  
-- Reference implementations and validation tooling
+---
+
+## 🗂 Registry & Schemas (v0.1.1)
+
+The repository includes a **versioned reference registry (v0.1.1)** and associated schemas.
+
+**Authoritative artifacts:**
+- Registry object schemas (event, league, team, venue, broadcaster, rights bundle)
+- Entitlement token and settlement record schemas
+- Deterministic index files and registry metadata
+- Canonical identifiers and digest conventions
+
+**Reference tooling (illustrative, non-production):**
+- Schema validation utilities
+- Integrity and digest checks
+- Index verification helpers
+
+Tooling exists to **demonstrate protocol behavior**, not to function as production infrastructure.
+
+---
+
+## 🔬 Scope & Status
+
+**Stable / Frozen**
+- RFCs 0001–0003
+- Registry schema set v0.1.1
+- Canonical index and digest rules
+
+**Active (Standards Track)**
+- Governance and compliance extensions
+- Settlement and clearinghouse formalization
+- Registry federation and multi-authority models
+
+**Explicitly Out of Scope**
+- Consumer applications
+- Proprietary platform integrations
+- League-specific business logic
 
 ---
 
@@ -53,10 +93,10 @@ Together, RFCs 0001–0003 define the **minimum viable USG protocol stack**:
 Whitepapers exploring rights structures, incentives, and system design across multiple sectors.
 
 Selected works:
-- **The Universal Sports Graph — Blueprint Edition**  
-- **The Sports Spin-Off**  
-- **The Content Layer**  
-- **The Shadow Subscription**
+- *The Universal Sports Graph — Blueprint Edition*
+- *The Sports Spin-Off*
+- *The Content Layer*
+- *The Shadow Subscription*
 
 Archive:  
 https://scottjellen.com/whitepapers
@@ -72,18 +112,21 @@ https://scottjellen.com/briefs
 
 ---
 
-## 🧭 Research Approach
+## 🧭 Research Principles
 
 - clarity over scale  
+- protocols before platforms  
 - versioning over polish  
-- publish early, refine in public  
-- treat systems as structures: **rights → access → incentives → outcomes**
+- publish early, freeze deliberately  
+
+Systems are treated as **structures**, not products:  
+**rights → access → incentives → outcomes**
 
 ---
 
 ## 📬 Contact
 
-For questions, critique, or research discussion:  
+For critique, collaboration, or research discussion:  
 https://scottjellen.com/contact
 
 Portfolio: https://scottjellen.com  
