@@ -3,10 +3,9 @@
 
 I research how rights, incentives, and system architecture can be represented clearly through **standards-style protocols**, **schemas**, and **reference registries**.
 
-This GitHub profile serves as an **index and entry point** for my protocol-oriented research. Canonical specifications, schemas, and registries are developed and versioned openly, with explicit scope, lifecycle status, and archival discipline.
+This GitHub profile serves as an **index and entry point** for my protocol-oriented research. Authoritative specifications, schemas, registries, and reference tooling are developed and versioned openly, with explicit scope, lifecycle status, and archival discipline.
 
-Primary development and authoritative artifacts are maintained in the **`sjellen/protocols`** repository.
-
+Primary development and canonical artifacts are maintained in the **`sjellen/protocols`** repository.
 
 ---
 
@@ -25,6 +24,9 @@ The goal is to make sports rights **computable**, reducing ambiguity across leag
 ---
 
 ## 📘 Canonical Publications
+
+The following documents define the **normative protocol surface** of USG.  
+They are standards-oriented specifications; whitepapers and briefs elsewhere in the canon are interpretive, exploratory, or contextual.
 
 - **The Universal Sports Graph — Blueprint Edition**  
   DOI-backed whitepaper defining the problem space, protocol goals, and architectural framing.
@@ -69,22 +71,40 @@ Tooling exists to **demonstrate protocol behavior**, not to function as producti
 
 ---
 
+## 🔎 Resolver Layer
+
+A minimal, read-only **resolver layer** provides stable lookup paths for USG artifacts without introducing service guarantees.
+
+The resolver exists to:
+- make canonical registry versions referenceable  
+- support `latest` and version-pinned resolution  
+- enable citation, inspection, and tooling integration  
+
+The resolver is **interface-only**:
+- no SLAs  
+- no business logic  
+- no mutation authority  
+
+Authoritative state remains in the registry.
+
+---
+
 ## 🔬 Scope & Status
 
 **Stable / Frozen**
-- RFCs 0001–0003
-- Registry schema set v0.1.1
-- Canonical index and digest rules
+- RFCs 0001–0003  
+- Registry schema set v0.1.1  
+- Canonical index and digest rules  
 
-**Active (Standards Track)**
-- Governance and compliance extensions
-- Settlement and clearinghouse formalization
-- Registry federation and multi-authority models
+**Active (Standards-Oriented Development)**
+- Governance and compliance extensions  
+- Settlement and clearinghouse formalization  
+- Registry federation and multi-authority models  
 
 **Explicitly Out of Scope**
-- Consumer applications
-- Proprietary platform integrations
-- League-specific business logic
+- Consumer applications  
+- Proprietary platform integrations  
+- League-specific business logic  
 
 ---
 
@@ -93,10 +113,10 @@ Tooling exists to **demonstrate protocol behavior**, not to function as producti
 Whitepapers exploring rights structures, incentives, and system design across multiple sectors.
 
 Selected works:
-- *The Universal Sports Graph — Blueprint Edition*
-- *The Sports Spin-Off*
-- *The Content Layer*
-- *The Shadow Subscription*
+- *The Universal Sports Graph — Blueprint Edition*  
+- *The Sports Spin-Off*  
+- *The Content Layer*  
+- *The Shadow Subscription*  
 
 Archive:  
 https://scottjellen.com/whitepapers
@@ -127,7 +147,7 @@ Systems are treated as **structures**, not products:
 ## 📬 Contact
 
 For critique, collaboration, or research discussion:  
-https://scottjellen.com/contact
+https://scottjellen.com/contact  
 
 Portfolio: https://scottjellen.com  
 LinkedIn: https://www.linkedin.com/in/sjellen/
