@@ -1,9 +1,9 @@
 # Scott Jellen  
 ### Independent Researcher · Protocol Design · Rights Modeling
 
-I research how rights, incentives, and system architecture can be represented clearly through **standards-style protocols**, **schemas**, and **reference registries**.
+I design standards-oriented protocols and reference infrastructure for representing rights, incentives, and interoperability in digital and institutional systems.
 
-This GitHub profile serves as an **index and entry point** for my protocol-oriented research. Authoritative specifications, schemas, registries, and reference tooling are developed and versioned openly, with explicit scope, lifecycle status, and archival discipline.
+This GitHub profile serves as an index and entry point for my protocol-oriented research. Authoritative specifications, schemas, registries, and reference tooling are developed and versioned openly, with explicit scope, lifecycle status, and archival discipline.
 
 Primary development and canonical artifacts are maintained in the **`sjellen/protocols`** repository.
 
@@ -23,10 +23,10 @@ The goal is to make sports rights **computable**, reducing ambiguity across leag
 
 ---
 
-## 📘 Canonical Publications
+## 📘 Normative Protocol Surface
 
 The following documents define the **normative protocol surface** of USG.  
-They are standards-oriented specifications; whitepapers and briefs elsewhere in the canon are interpretive, exploratory, or contextual.
+These are standards-oriented specifications. Whitepapers and briefs elsewhere in the canon are interpretive, exploratory, or contextual.
 
 - **The Universal Sports Graph — Blueprint Edition**  
   DOI-backed whitepaper defining the problem space, protocol goals, and architectural framing.
@@ -46,7 +46,7 @@ They are standards-oriented specifications; whitepapers and briefs elsewhere in 
   - deterministic index structures  
   - federation and multi-authority constraints  
 
-Together, RFCs **0001–0003** define the **minimum viable USG protocol stack**:
+Together, RFCs **0001–0003** define the minimum viable USG protocol stack:
 
 **rights graph → entitlement enforcement → authoritative registry substrate**
 
@@ -54,33 +54,36 @@ Together, RFCs **0001–0003** define the **minimum viable USG protocol stack**:
 
 ## 🗂 Registry & Schemas (v0.1.1)
 
-The repository includes a **versioned reference registry (v0.1.1)** and associated schemas.
+The repository includes a versioned reference registry (v0.1.1) and associated schemas.
 
-**Authoritative artifacts:**
+**Authoritative artifacts**
 - Registry object schemas (event, league, team, venue, broadcaster, rights bundle)
 - Entitlement token and settlement record schemas
 - Deterministic index files and registry metadata
 - Canonical identifiers and digest conventions
 
-**Reference tooling (illustrative, non-production):**
-- Schema validation utilities
-- Integrity and digest checks
-- Index verification helpers
+**Reference tooling (illustrative, non-production)**
+- Schema validation utilities  
+- Integrity and digest checks  
+- Index verification helpers  
 
-Tooling exists to **demonstrate protocol behavior**, not to function as production infrastructure.
+Tooling exists to demonstrate protocol behavior, not to function as production infrastructure.
 
 ---
 
 ## 🔎 Resolver Layer
 
-A minimal, read-only **resolver layer** provides stable lookup paths for USG artifacts without introducing service guarantees.
+A minimal, read-only resolver layer provides stable lookup paths for USG artifacts without introducing service guarantees.
 
 The resolver exists to:
+
 - make canonical registry versions referenceable  
 - support `latest` and version-pinned resolution  
 - enable citation, inspection, and tooling integration  
 
-The resolver is **interface-only**:
+It is designed for referenceability and inspection — not orchestration.
+
+The resolver is interface-only:
 - no SLAs  
 - no business logic  
 - no mutation authority  
@@ -113,7 +116,6 @@ Authoritative state remains in the registry.
 Whitepapers exploring rights structures, incentives, and system design across multiple sectors.
 
 Selected works:
-- *The Universal Sports Graph — Blueprint Edition*  
 - *The Sports Spin-Off*  
 - *The Content Layer*  
 - *The Shadow Subscription*  
@@ -135,11 +137,13 @@ https://scottjellen.com/briefs
 ## 🧭 Research Principles
 
 - clarity over scale  
+- infrastructure before applications  
 - protocols before platforms  
 - versioning over polish  
 - publish early, freeze deliberately  
 
-Systems are treated as **structures**, not products:  
+Systems are treated as structures, not products:
+
 **rights → access → incentives → outcomes**
 
 ---
