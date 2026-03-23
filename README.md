@@ -119,6 +119,7 @@ Selected works:
 - *The Sports Spin-Off*  
 - *The Content Layer*  
 - *The Shadow Subscription*  
+- *The Shutdown Stabilizer* 
 
 Archive:  
 https://scottjellen.com/whitepapers
