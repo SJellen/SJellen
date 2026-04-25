@@ -1,9 +1,11 @@
 # Scott Jellen  
-### Independent Researcher · Protocol Design · Rights Modeling
+### Independent Researcher · Protocol Designer · Infrastructure Systems
 
-I design standards-oriented protocols and reference infrastructure for representing rights, incentives, and interoperability in digital and institutional systems.
+I design protocol-oriented research, reference infrastructure, and institutional frameworks for representing rights, incentives, access, and coordination in complex systems.
 
-This GitHub profile serves as an index and entry point for my protocol-oriented research. Authoritative specifications, schemas, registries, and reference tooling are developed and versioned openly, with explicit scope, lifecycle status, and archival discipline.
+This GitHub profile serves as the public development index for **Jellen Protocol Lab**, an independent research initiative focused on protocol design, rights infrastructure, institutional systems, and public-facing technical artifacts.
+
+Authoritative specifications, schemas, registries, reference tooling, and canonical research artifacts are developed and versioned openly, with explicit scope, lifecycle status, and archival discipline.
 
 Primary development and canonical artifacts are maintained in the **`sjellen/protocols`** repository.
 
@@ -52,17 +54,17 @@ Together, RFCs **0001–0003** define the minimum viable USG protocol stack:
 
 ---
 
-## 🗂 Registry & Schemas (v0.1.1)
+## 🗂 Registry & Schemas
 
-The repository includes a versioned reference registry (v0.1.1) and associated schemas.
+The repository includes a versioned reference registry and associated schemas.
 
 **Authoritative artifacts**
-- Registry object schemas (event, league, team, venue, broadcaster, rights bundle)
+- Registry object schemas
 - Entitlement token and settlement record schemas
 - Deterministic index files and registry metadata
 - Canonical identifiers and digest conventions
 
-**Reference tooling (illustrative, non-production)**
+**Reference tooling**
 - Schema validation utilities  
 - Integrity and digest checks  
 - Index verification helpers  
@@ -84,6 +86,7 @@ The resolver exists to:
 It is designed for referenceability and inspection — not orchestration.
 
 The resolver is interface-only:
+
 - no SLAs  
 - no business logic  
 - no mutation authority  
@@ -92,17 +95,31 @@ Authoritative state remains in the registry.
 
 ---
 
+## 🧪 Current Focus
+
+Current work is focused on turning research artifacts into structured protocol and institutional systems:
+
+- USG registry, resolver, and federation models
+- standards-oriented governance and compliance extensions
+- settlement and clearinghouse formalization
+- institutional continuity mechanisms
+- labor, retirement, and public-system transition frameworks
+- operational simulations for policy and infrastructure proposals
+
+---
+
 ## 🔬 Scope & Status
 
 **Stable / Frozen**
 - RFCs 0001–0003  
-- Registry schema set v0.1.1  
+- Registry schema set  
 - Canonical index and digest rules  
 
-**Active (Standards-Oriented Development)**
+**Active**
 - Governance and compliance extensions  
 - Settlement and clearinghouse formalization  
 - Registry federation and multi-authority models  
+- Applied institutional frameworks  
 
 **Explicitly Out of Scope**
 - Consumer applications  
@@ -113,13 +130,17 @@ Authoritative state remains in the registry.
 
 ## 📚 Research Papers
 
-Whitepapers exploring rights structures, incentives, and system design across multiple sectors.
+Whitepapers exploring rights structures, incentives, labor systems, public infrastructure, and institutional design across multiple sectors.
 
 Selected works:
-- *The Sports Spin-Off*  
-- *The Content Layer*  
-- *The Shadow Subscription*  
-- *The Shutdown Stabilizer* 
+
+- *The Universal Sports Graph — Blueprint Edition*
+- *The Shutdown Stabilizer*
+- *The Shorter Working Life*
+- *The Shadow Subscription*
+- *The Content Layer*
+- *The Sports Spin-Off*
+- *Less Than Net Zero*
 
 Archive:  
 https://scottjellen.com/whitepapers
@@ -128,7 +149,7 @@ https://scottjellen.com/whitepapers
 
 ## 📝 Briefs
 
-Concise research briefs derived from larger papers and protocol work, focused on clarifying structure, incentives, or implementation patterns.
+Concise research briefs derived from larger papers and protocol work, focused on clarifying structure, incentives, implementation patterns, or operational implications.
 
 Archive:  
 https://scottjellen.com/briefs
@@ -142,6 +163,7 @@ https://scottjellen.com/briefs
 - protocols before platforms  
 - versioning over polish  
 - publish early, freeze deliberately  
+- mechanisms before narratives  
 
 Systems are treated as structures, not products:
 
