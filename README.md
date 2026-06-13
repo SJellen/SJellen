@@ -3,7 +3,9 @@
 
 I design protocol-oriented research, reference infrastructure, and institutional frameworks for representing rights, incentives, access, coordination, and transition in complex systems.
 
-This GitHub profile serves as the public development index for **Jellen Protocol Lab**, an independent research initiative focused on protocol design, rights infrastructure, institutional systems, public-facing technical artifacts, and infrastructure-grade research.
+This GitHub profile serves as a public development index for my current work with **Jellen Protocol Lab**, while also retaining earlier software projects, experiments, and personal development history.
+
+Jellen Protocol Lab is an independent research initiative focused on protocol design, rights infrastructure, institutional systems, public-facing technical artifacts, and infrastructure-grade research.
 
 Authoritative specifications, schemas, registries, reference tooling, and canonical research artifacts are developed and versioned openly, with explicit scope, lifecycle status, and archival discipline.
 
@@ -11,18 +13,18 @@ Primary development and canonical artifacts are maintained in the **`sjellen/pro
 
 ---
 
-## 🧭 What This Account Contains
+## 🧭 Current Public Work
 
-This account is organized around research that becomes inspectable infrastructure:
+My current public work focuses on research that can be translated into inspectable technical and institutional artifacts:
 
-- protocol specifications  
-- registry and schema models  
-- resolver and reference surfaces  
-- DOI-backed whitepapers and briefs  
-- institutional design frameworks  
-- operational simulations and transition models  
+- protocol specifications
+- registry and schema models
+- resolver and reference surfaces
+- DOI-backed whitepapers and briefs
+- institutional design frameworks
+- operational simulations and transition models
 
-The goal is to move from argument to structure: defining the objects, roles, incentives, lifecycle rules, and coordination surfaces that make complex systems easier to inspect, govern, and improve.
+This work is primarily maintained through **Jellen Protocol Lab** and the **`sjellen/protocols`** repository, alongside older software projects and personal development work.
 
 ---
 
